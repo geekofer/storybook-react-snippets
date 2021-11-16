@@ -1,0 +1,37 @@
+{
+  "name": "storybook-react-snippets",
+  "displayName": "Storybook react snippets",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geekofer/storybook-react-snippets"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.javascript.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.typescript.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.javascript.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.typescript.code-snippets"
+      }
+    ]
+  }
+}
