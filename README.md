@@ -2,7 +2,7 @@
 
 This extension contains storybook code snippets for JavaScript in ES6 syntax for [Vs Code][code] editor (supports both JavaScript and TypeScript).
 
-![Alt Text](https://github.com/geekofer/storybook-react-snippets/demo.gif)
+![Alt Text](https://github.com/geekofer/storybook-react-snippets/blob/master/demo.gif)
 
 ### Note
 **All the snippets include the final semicolon `;`.
