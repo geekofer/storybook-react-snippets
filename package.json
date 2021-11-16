@@ -1,8 +1,9 @@
 {
   "name": "storybook-react-snippets",
-  "displayName": "Storybook react snippets",
+  "displayName": "Storybook React Snippets",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "geekofer",
   "engines": {
     "vscode": "^1.62.0"
   },
